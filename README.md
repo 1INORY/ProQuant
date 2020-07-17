@@ -7,3 +7,7 @@ Mark I  +2.56%
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
+<p align="center">
+  <img src="figures/test.png" width="300" height='100' title="ovr_eq">
+</p>
