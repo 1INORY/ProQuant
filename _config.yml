@@ -3,3 +3,6 @@ theme: jekyll-theme-cayman
 title: 1INORY's Strategies
 description: Summary statistics and visualisations for my running ProQuant strategies
 show_downloads: false
+
+github:
+  is_project_page: false
