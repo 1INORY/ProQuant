@@ -4,10 +4,5 @@ Mark I  +2.56%
 
 
 ## Backtests
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![Image](figures/test.png)  |  ![Image](figures/test.png)
 
-<p align="center">
-  <img src="figures/test.png" width="300" height='100' title="ovr_eq">
-</p>
+![Image](figures/test.png)
