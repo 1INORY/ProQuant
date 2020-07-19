@@ -5,7 +5,7 @@ Mark I  +2.56%
 
 ## Backtests
 
-![Image](figures/MarkI_return.png =250x250)  ![Image](figures/MarkI_return.png =250x250)
+![Image](figures/MarkI_return.png=250x250)  ![Image](figures/MarkI_return.png=250x250)
 
 
 <img align="right" width="100" height="100" src=figures/MarkI_return.png>
