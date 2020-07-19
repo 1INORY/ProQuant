@@ -9,6 +9,25 @@ Mark I  +2.56%
 
 <img align="left" width="100" height="100" src=figures/MarkI_return.png>
 
+<p align="right"></p>
+<table>
+    <thead>
+        <tr>
+            <th align="left">Column1</th>
+            <th align="center">Column1</th>
+            <th align="right">Column1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">Column1</td>
+            <td align="center">Column1</td>
+            <td align="right">Column1</td>
+        </tr>
+    </tbody>
+</table>
+<p></p>
+
 | Statistics | Dynamic | Static |
 | ------------- | ------------- | ------------ |
 | Avg. entry time  | 5d 10h  | 5d 10h |
