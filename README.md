@@ -9,7 +9,7 @@ Mark I  +2.56%
 
 <img align="left" width="100" height="100" src=figures/MarkI_return.png>
 
-<p align="right"></p>
+<p align="center"></p>
 <table>
     <thead>
         <tr>
