@@ -5,7 +5,9 @@ Mark I  +2.56%
 
 ## Backtests
 
-![Image](https://github.com/1INORY/ProQuant/blob/master/figures/MarkI_return_test.png)  | Statistics | Dynamic | Static |
+![Image](https://github.com/1INORY/ProQuant/blob/master/figures/MarkI_return_test.png)  
+
+| Statistics | Dynamic | Static |
 | ------------- | ------------- | ------------ |
 | Avg. entry time  | 5d 10h  | 5d 10h |
 | Avg. exit time  | 5h 9m  | 5h 9m |
