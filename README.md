@@ -3,7 +3,8 @@
 Mark I  +2.56%
 
 
-## Backtests
+## Backtests for running strategies
+### Mark I
 <img src="figures/MarkI_return.png" width="450">  <img src="figures/table_MarkI.png" width="300"> 
 
 
