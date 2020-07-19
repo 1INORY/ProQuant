@@ -5,7 +5,7 @@ Mark I  +2.56%
 
 ## Backtests
 
-![Image](figures/MarkI_return.png | width=100)  ![Image](figures/MarkI_return.png | width=100)
+![Image](https://github.com/1INORY/ProQuant/blob/master/figures/MarkI_return.png | width=100)  ![Image](https://github.com/1INORY/ProQuant/blob/master/figures/MarkI_return.png | width=100)
 
 
 <img align="right" width="100" height="100" src=figures/MarkI_return.png>
