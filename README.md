@@ -7,26 +7,8 @@ Mark I  +2.56%
 
 ![Image](figures/MarkI_return.png)
 
-<img align="left" width="100" height="100" src=figures/MarkI_return.png>
 
-<p align="center"></p>
-<table>
-    <thead>
-        <tr>
-            <th align="left">Column1</th>
-            <th align="center">Column1</th>
-            <th align="right">Column1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">Column1</td>
-            <td align="center">Column1</td>
-            <td align="right">Column1</td>
-        </tr>
-    </tbody>
-</table>
-<p></p>
+<img align="right" width="100" height="100" src=figures/MarkI_return.png>
 
 | Statistics | Dynamic | Static |
 | ------------- | ------------- | ------------ |
@@ -37,3 +19,6 @@ Mark I  +2.56%
 | Sharpe ratio  | 0.87  | 0.97 |
 | Max consec. losses  | 1  | 1 |
 | Profit factor  | 4.26  | 5.21 |
+
+
+<img align="right" width="100" height="100" src=figures/MarkI_return.png>
