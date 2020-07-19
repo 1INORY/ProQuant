@@ -5,4 +5,4 @@ Mark I  +2.56%
 
 ## Backtests
 
-![Image](figures/Mark I_return.png)
+![Image]('figures/Mark I_return.png')
