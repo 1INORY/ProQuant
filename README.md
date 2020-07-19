@@ -5,10 +5,8 @@ Mark I  +2.56%
 
 ## Backtests
 
-![Image](https://github.com/1INORY/ProQuant/blob/master/figures/MarkI_return.png)  ![Image](https://github.com/1INORY/ProQuant/blob/master/figures/MarkI_return.png)
+![Image](https://github.com/1INORY/ProQuant/blob/master/figures/MarkI_return_test.png)  ![Image](https://github.com/1INORY/ProQuant/blob/master/figures/MarkI_return_test.png)
 
-
-<img align="right" width="100" height="100" src=figures/MarkI_return.png>
 
 | Statistics | Dynamic | Static |
 | ------------- | ------------- | ------------ |
@@ -20,5 +18,3 @@ Mark I  +2.56%
 | Max consec. losses  | 1  | 1 |
 | Profit factor  | 4.26  | 5.21 |
 
-
-<img align="right" width="100" height="100" src=figures/MarkI_return.png>
