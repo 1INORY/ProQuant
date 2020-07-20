@@ -8,6 +8,6 @@ Mark I  +2.56%
 <img src="figures/MarkI_return.png" width="450">  <img src="figures/table_MarkI.png" width="300"> 
 
 ### Test 13
-<img src="figures/test13_return.png" width="450">  <img src="figures/table_test13.png" width="300"> 
+<img src="figures/Test13_return.png" width="450">  <img src="figures/table_Test13.png" width="300"> 
 
 
