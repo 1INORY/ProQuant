@@ -9,6 +9,9 @@ Mark I  +2.56%
 
 
 ## Backtests for testing strategies
+### Test 11
+<img src="figures/Test11_return.png" width="450">  <img src="figures/table_Test11.png" width="300"> 
+
 ### Test 13
 <img src="figures/Test13_return.png" width="450">  <img src="figures/table_Test13.png" width="300"> 
 
