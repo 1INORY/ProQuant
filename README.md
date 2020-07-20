@@ -11,6 +11,7 @@ Mark I  +2.56%
 ## Backtests for testing strategies
 ### Test 11
 3 years 9 months (45 months) backtest
+
 <img src="figures/Test11_return.png" width="450">  <img src="figures/table_Test11.png" width="300"> 
 
 ### Test 13
