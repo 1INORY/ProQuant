@@ -3,7 +3,7 @@
 Mark I  +2.56%
 
 
-## Backtests for running strategies
+## Backtests for published strategies
 ### Mark I
 9 months backtest
 
