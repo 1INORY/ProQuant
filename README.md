@@ -1,5 +1,5 @@
 ## Weekly summary for published strategies
-### 2020.7.13-7.17
+#### 2020.7.13-7.17
 ```
 Mark I  +2.56%
 ```
