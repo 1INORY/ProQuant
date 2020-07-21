@@ -1,7 +1,8 @@
-## Weekly summary (2020.7.13-7.17)
-
+## Weekly summary for published strategies
+```
+2020.7.13-7.17
 Mark I  +2.56%
-
+```
 
 ## Backtests for published strategies
 ### Mark I
