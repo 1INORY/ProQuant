@@ -75,6 +75,11 @@ Mark I  +2.56%
 
 <img src="figures/Test47_return.png" width="450">  <img src="figures/table_Test47.png" width="300"> 
 
+#### Test 48
+2 years (24 months) backtest
+
+<img src="figures/Test48_return.png" width="450">  <img src="figures/table_Test48.png" width="300"> 
+
 #### Test 49
 2 years 1 month (25 months) backtest
 
