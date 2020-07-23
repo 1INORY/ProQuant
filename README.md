@@ -155,3 +155,8 @@ Mark I  +2.56%
 9 months (9 months) backtest
 
 <img src="figures/Test61_return.png" width="450">  <img src="figures/table_Test61.png" width="300"> 
+
+#### Test 62
+9 months (9 months) backtest
+
+<img src="figures/Test62_return.png" width="450">  <img src="figures/table_Test62.png" width="300"> 
