@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 title: 1INORY's Strategies
-description: I expect each strategy to perform reasonably well in real-time for a period of around 1/4~1/2 of the backtest length, after which I might remove it or switch it to practice accordingt to the drawdown level.
+description: I expect each strategy to perform reasonably well in real-time for a period of around 1/4~1/2 of the backtest length, after which I might remove it or switch it to practice according to the drawdown level.
 show_downloads: false
 
 github:
