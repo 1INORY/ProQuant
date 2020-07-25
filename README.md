@@ -39,7 +39,12 @@ Mark I  +2.56%
 #### Test 9
 10 months (10 months) backtest
 
-<img src="figures/Test9_return.png" width="450">  <img src="figures/table_Test9.png" width="300"> 
+<img src="figures/Test9_return.png" width="450">  <img src="figures/table_Test9.png" width="300">
+
+#### Test 10
+3 years 3 months (39 months) backtest
+
+<img src="figures/Test10_return.png" width="450">  <img src="figures/table_Test10.png" width="300">
 
 #### Test 11
 3 years 9 months (45 months) backtest
