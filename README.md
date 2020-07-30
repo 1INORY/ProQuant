@@ -66,15 +66,45 @@ Mark I  +2.56%
 
 <img src="figures/Test15_return.png" width="450">  <img src="figures/table_Test15.png" width="300"> 
 
+#### Test 16
+2 years 11 months (35 months) backtest
+
+<img src="figures/Test16_return.png" width="450">  <img src="figures/table_Test16.png" width="300"> 
+
+#### Test 17
+2 years 9 months (33 months) backtest
+
+<img src="figures/Test17_return.png" width="450">  <img src="figures/table_Test17.png" width="300"> 
+
+#### Test 18
+2 years 10 months (34 months) backtest
+
+<img src="figures/Test18_return.png" width="450">  <img src="figures/table_Test18.png" width="300"> 
+
 #### Test 19
 2 years 10 months (34 months) backtest
 
 <img src="figures/Test19_return.png" width="450">  <img src="figures/table_Test19.png" width="300"> 
 
+#### Test 20
+2 years 10 months (34 months) backtest
+
+<img src="figures/Test20_return.png" width="450">  <img src="figures/table_Test20.png" width="300"> 
+
+#### Test 21
+2 years 10 months (34 months) backtest
+
+<img src="figures/Test21_return.png" width="450">  <img src="figures/table_Test21.png" width="300"> 
+
 #### Test 22
 3 years 7 months (43 months) backtest
 
 <img src="figures/Test22_return.png" width="450">  <img src="figures/table_Test22.png" width="300"> 
+
+#### Test 23
+2 years 11 months (35 months) backtest
+
+<img src="figures/Test23_return.png" width="450">  <img src="figures/table_Test23.png" width="300"> 
 
 #### Test 27
 2 years 10 months (34 months) backtest
@@ -241,4 +271,44 @@ Mark I  +2.56%
 1 year 8 months (20 months) backtest
 
 <img src="figures/Test70_return.png" width="450">  <img src="figures/table_Test70.png" width="300"> 
+
+#### Test 71
+1 year 8 months (20 months) backtest
+
+<img src="figures/Test71_return.png" width="450">  <img src="figures/table_Test71.png" width="300"> 
+
+#### Test 72
+2 years 6 months (30 months) backtest
+
+<img src="figures/Test72_return.png" width="450">  <img src="figures/table_Test72.png" width="300"> 
+
+#### Test 73
+1 year 8 months (20 months) backtest
+
+<img src="figures/Test73_return.png" width="450">  <img src="figures/table_Test73.png" width="300"> 
+
+#### Test 74
+2 years 7 months (31 months) backtest
+
+<img src="figures/Test74_return.png" width="450">  <img src="figures/table_Test74.png" width="300"> 
+
+#### Test 75
+1 year 8 months (20 months) backtest
+
+<img src="figures/Test75_return.png" width="450">  <img src="figures/table_Test75.png" width="300"> 
+
+#### Test 76
+1 year 8 months (20 months) backtest
+
+<img src="figures/Test76_return.png" width="450">  <img src="figures/table_Test76.png" width="300"> 
+
+#### Test 77
+1 year 8 months (20 months) backtest
+
+<img src="figures/Test77_return.png" width="450">  <img src="figures/table_Test77.png" width="300"> 
+
+#### Test 78
+1 year 8 months (20 months) backtest
+
+<img src="figures/Test78_return.png" width="450">  <img src="figures/table_Test78.png" width="300"> 
 
