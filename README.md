@@ -1,5 +1,11 @@
 ## Weekly summary
 
+#### 2020.7.27~7.31
+```
+Mark I   +0.00%
+Mark II  +6.65%
+```
+
 #### 2020.7.20~7.24
 ```
 Mark I  +2.09%
@@ -11,7 +17,7 @@ Mark I  +2.56%
 ```
 
 ## Backtests
-### Published strategies
+ <!--### Published strategies-->
 
 #### Mark I
 9 months backtest
@@ -205,11 +211,6 @@ Mark I  +2.56%
 1 year 1 month (13 months) backtest
 
 <img src="figures/Test57_return.png" width="450">  <img src="figures/table_Test57.png" width="300"> 
-
-#### Test 58
-2 years 8 months (32 months) backtest
-
-<img src="figures/Test58_return.png" width="450">  <img src="figures/table_Test58.png" width="300"> 
 
 #### Test 59
 2 years 8 months (32 months) backtest
