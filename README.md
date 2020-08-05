@@ -24,7 +24,12 @@ Mark I  +2.56%
 
 <img src="figures/MarkI_return.png" width="450">  <img src="figures/table_MarkI.png" width="300"> 
 
+#### Mark II
+2 years 10 months (34 months) backtest
 
+<img src="figures/Test27_return.png" width="450">  <img src="figures/table_Test27.png" width="300"> 
+
+<!---
 ### Testing strategies
 
 #### Test 1
@@ -111,11 +116,6 @@ Mark I  +2.56%
 2 years 11 months (35 months) backtest
 
 <img src="figures/Test23_return.png" width="450">  <img src="figures/table_Test23.png" width="300"> 
-
-#### Test 27
-2 years 10 months (34 months) backtest
-
-<img src="figures/Test27_return.png" width="450">  <img src="figures/table_Test27.png" width="300"> 
 
 #### Test 30
 3 years 3 months (39 months) backtest
@@ -313,3 +313,4 @@ Mark I  +2.56%
 
 <img src="figures/Test78_return.png" width="450">  <img src="figures/table_Test78.png" width="300"> 
 
+--->
