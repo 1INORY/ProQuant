@@ -29,6 +29,11 @@ Mark I  +2.56%
 
 <img src="figures/Test27_return.png" width="450">  <img src="figures/table_Test27.png" width="300"> 
 
+#### Mark III
+2 years 6 months (30 months) backtest
+
+<img src="figures/MarkIII_return.png" width="450">  <img src="figures/table_MarkIII.png" width="300"> 
+
 <!---
 ### Testing strategies
 
