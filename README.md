@@ -19,17 +19,17 @@ Mark I  +2.56%
 ## Backtests
  <!--### Published strategies-->
 
-#### Mark I
+#### Mark I (EUR/USD)
 9 months backtest
 
 <img src="figures/MarkI_return.png" width="450">  <img src="figures/table_MarkI.png" width="300"> 
 
-#### Mark II
+#### Mark II (GBP/USD)
 2 years 10 months (34 months) backtest
 
 <img src="figures/Test27_return.png" width="450">  <img src="figures/table_Test27.png" width="300"> 
 
-#### Mark III
+#### Mark III (EUR/USD)
 2 years 6 months (30 months) backtest
 
 <img src="figures/MarkIII_return.png" width="450">  <img src="figures/table_MarkIII.png" width="300"> 
